@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: chainsense-ai
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt && python generate_demo.py
+    startCommand: gunicorn "app:create_app()" --bind 0.0.0.0:$PORT --workers 2 --timeout 120
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: SECRET_KEY
+        generateValue: true
+      - key: ANTHROPIC_API_KEY
+        sync: false

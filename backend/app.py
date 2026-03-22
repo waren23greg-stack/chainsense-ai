@@ -6,6 +6,7 @@ from flask_limiter.util import get_remote_address
 from dotenv import load_dotenv
 from config.settings import get_config
 from middleware.security import apply_security_headers, attach_request_id, log_request_completion, enforce_content_type, check_request_size
+from serve_frontend import register_frontend
 from utils.session_manager import get_session_manager
 
 load_dotenv()
@@ -47,6 +48,7 @@ def create_app():
     def server_error(e):  return jsonify({"error":"Internal server error.","code":"SERVER_ERROR"}), 500
 
     get_session_manager(app.config["UPLOAD_FOLDER"], app.config["SESSION_TTL"])
+    register_frontend(app)
     app.logger.info(f"ChainSense API ready — {app.config['FLASK_ENV']}")
     return app
 

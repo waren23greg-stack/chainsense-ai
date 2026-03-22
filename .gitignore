@@ -13,3 +13,6 @@ Thumbs.db
 .vscode/
 venv/
 *.pyc
+# static_frontend is intentionally committed
+frontend/node_modules/
+frontend/dist/
