@@ -1,0 +1,501 @@
+order_id,order_date,supplier_name,product_name,carrier,warehouse,country,quantity,unit_price,status,delay_days,stock_level,reorder_point,revenue,total_amount
+ORD-1222,2024-01-01,Rift Valley Suppliers,Chemical Compounds,Siginon Logistics,Kisumu,Uganda,340,239.88,Delivered,13,714,198,81559.2,81559.2
+ORD-1197,2024-01-02,Mombasa Trading Co,Office Supplies,G4S Logistics,Kisumu,Kenya,246,171.85,Delivered,13,303,81,42275.1,42275.1
+ORD-1373,2024-01-02,Lake Region Trading,Office Supplies,G4S Logistics,Mombasa,Ethiopia,170,185.66,Delivered,0,553,198,31562.2,31562.2
+ORD-1037,2024-01-04,East Africa Logistics,Machinery Parts,Kenya Airways Cargo,Kisumu,Rwanda,58,176.38,Delivered,0,11,183,10230.04,10230.04
+ORD-1284,2024-01-04,Dar es Salaam Imports,Raw Cotton,G4S Logistics,Nairobi,Ethiopia,139,208.69,Delivered,1,140,69,29007.91,29007.91
+ORD-1476,2024-01-05,Pan-Africa Distributors,Chemical Compounds,Siginon Logistics,Nairobi,Uganda,332,137.25,Cancelled,15,499,184,45567.0,45567.0
+ORD-1449,2024-01-05,Kenya Procurement Co,Machinery Parts,Siginon Logistics,Mombasa,Rwanda,181,31.14,Shipped,14,541,66,5636.34,5636.34
+ORD-1181,2024-01-06,Kenya Procurement Co,Industrial Bearings,Kenya Airways Cargo,Eldoret,Ethiopia,355,150.01,Cancelled,2,776,175,53253.55,53253.55
+ORD-1358,2024-01-08,Pan-Africa Distributors,Chemical Compounds,DHL,Mombasa,Ethiopia,149,62.85,Delivered,0,553,52,9364.65,9364.65
+ORD-1226,2024-01-10,Mombasa Trading Co,Packaging Material,FedEx,Kisumu,Rwanda,240,87.24,Delivered,12,788,153,20937.6,20937.6
+ORD-1278,2024-01-11,Kampala Wholesale,Electronic Components,DHL,Eldoret,Rwanda,494,190.46,Processing,13,171,107,94087.24,94087.24
+ORD-1002,2024-01-13,Pan-Africa Distributors,Industrial Bearings,Kenya Airways Cargo,Kisumu,Tanzania,358,178.68,Delivered,2,203,199,63967.44,63967.44
+ORD-1023,2024-01-14,Nairobi Supplies Ltd,Machinery Parts,FedEx,Eldoret,Ethiopia,353,210.54,Processing,0,19,69,74320.62,74320.62
+ORD-1017,2024-01-16,Rift Valley Suppliers,Raw Cotton,Kenya Airways Cargo,Kisumu,Rwanda,369,146.82,Shipped,0,881,122,54176.58,54176.58
+ORD-1016,2024-01-17,Global Freight KE,Packaging Material,DHL,Eldoret,Kenya,109,11.77,Delivered,0,915,63,1282.93,1282.93
+ORD-1291,2024-01-17,Nairobi Supplies Ltd,Raw Cotton,G4S Logistics,Kisumu,Uganda,256,122.61,Delivered,5,904,160,31388.16,31388.16
+ORD-1125,2024-01-17,Kampala Wholesale,Medical Supplies,Siginon Logistics,Eldoret,Rwanda,24,184.25,Delivered,0,687,154,4422.0,4422.0
+ORD-1424,2024-01-21,East Africa Logistics,Medical Supplies,FedEx,Nairobi,Tanzania,47,242.16,Delivered,15,661,107,11381.52,11381.52
+ORD-1059,2024-01-23,Mombasa Trading Co,Chemical Compounds,DHL,Mombasa,Rwanda,338,131.59,Delivered,5,293,92,44477.42,44477.42
+ORD-1077,2024-01-24,Nairobi Supplies Ltd,Safety Equipment,Kenya Airways Cargo,Eldoret,Tanzania,273,118.85,Processing,0,357,129,32446.05,32446.05
+ORD-1162,2024-01-25,Lake Region Trading,Electronic Components,G4S Logistics,Nairobi,Ethiopia,223,138.75,Cancelled,7,827,184,30941.25,30941.25
+ORD-1400,2024-01-26,Dar es Salaam Imports,Industrial Bearings,FedEx,Nairobi,Rwanda,493,94.51,Cancelled,0,148,187,46593.43,46593.43
+ORD-1354,2024-01-26,East Africa Logistics,Office Supplies,DHL,Nairobi,Rwanda,11,151.33,Shipped,0,262,118,1664.63,1664.63
+ORD-1323,2024-01-28,East Africa Logistics,Raw Cotton,Siginon Logistics,Nairobi,Ethiopia,460,148.27,Cancelled,5,241,199,68204.2,68204.2
+ORD-1122,2024-01-29,Kenya Procurement Co,Raw Cotton,Siginon Logistics,Nairobi,Uganda,389,108.75,Processing,2,160,91,42303.75,42303.75
+ORD-1399,2024-01-30,Rift Valley Suppliers,Machinery Parts,Kenya Airways Cargo,Nairobi,Uganda,178,60.21,Processing,5,159,169,10717.38,10717.38
+ORD-1407,2024-01-30,Kampala Wholesale,Safety Equipment,DHL,Mombasa,Tanzania,413,17.65,Shipped,10,380,94,7289.45,7289.45
+ORD-1234,2024-01-30,Nairobi Supplies Ltd,Packaging Material,DHL,Eldoret,Uganda,125,116.04,Delivered,8,372,62,14505.0,14505.0
+ORD-1392,2024-01-30,Global Freight KE,Office Supplies,G4S Logistics,Eldoret,Ethiopia,375,225.41,Processing,3,560,133,84528.75,84528.75
+ORD-1288,2024-01-31,Nairobi Supplies Ltd,Steel Rods,FedEx,Eldoret,Uganda,169,26.66,Shipped,0,276,105,4505.54,4505.54
+ORD-1370,2024-01-31,Kampala Wholesale,Steel Rods,FedEx,Nairobi,Kenya,161,91.77,Delivered,1,579,142,14774.97,14774.97
+ORD-1328,2024-02-01,Global Freight KE,Electronic Components,DHL,Nairobi,Rwanda,317,105.86,Delivered,0,107,166,33557.62,33557.62
+ORD-1396,2024-02-01,Dar es Salaam Imports,Electronic Components,Siginon Logistics,Eldoret,Kenya,172,85.94,Delivered,12,516,135,14781.68,14781.68
+ORD-1172,2024-02-02,Mombasa Trading Co,Packaging Material,G4S Logistics,Eldoret,Ethiopia,14,223.51,Delivered,4,985,87,3129.14,3129.14
+ORD-1276,2024-02-02,Kampala Wholesale,Steel Rods,DHL,Nairobi,Rwanda,63,55.77,Cancelled,4,821,135,3513.51,3513.51
+ORD-1130,2024-02-03,Kampala Wholesale,Chemical Compounds,Siginon Logistics,Mombasa,Rwanda,18,142.66,Delivered,15,158,179,2567.88,2567.88
+ORD-1290,2024-02-04,Mombasa Trading Co,Safety Equipment,FedEx,Mombasa,Rwanda,425,149.54,Cancelled,3,219,181,63554.5,63554.5
+ORD-1414,2024-02-04,Rift Valley Suppliers,Steel Rods,Siginon Logistics,Eldoret,Kenya,42,6.3,Delivered,8,171,119,264.6,264.6
+ORD-1076,2024-02-05,Dar es Salaam Imports,Medical Supplies,DHL,Nairobi,Tanzania,437,89.84,Cancelled,11,351,56,39260.08,39260.08
+ORD-1243,2024-02-05,Pan-Africa Distributors,Office Supplies,G4S Logistics,Eldoret,Rwanda,327,107.08,Delivered,0,143,146,35015.16,35015.16
+ORD-1461,2024-02-05,Kenya Procurement Co,Raw Cotton,Kenya Airways Cargo,Mombasa,Ethiopia,358,207.85,Delivered,0,320,123,74410.3,74410.3
+ORD-1412,2024-02-05,Dar es Salaam Imports,Electronic Components,G4S Logistics,Eldoret,Uganda,410,146.12,Delivered,5,129,70,59909.2,59909.2
+ORD-1285,2024-02-06,Mombasa Trading Co,Medical Supplies,FedEx,Kisumu,Ethiopia,62,80.41,Processing,4,886,124,4985.42,4985.42
+ORD-1294,2024-02-06,Mombasa Trading Co,Packaging Material,DHL,Nairobi,Uganda,212,161.64,Delivered,5,782,69,34267.68,34267.68
+ORD-1102,2024-02-06,Mombasa Trading Co,Medical Supplies,FedEx,Mombasa,Ethiopia,360,55.64,Delivered,5,813,128,20030.4,20030.4
+ORD-1454,2024-02-07,East Africa Logistics,Machinery Parts,FedEx,Eldoret,Uganda,382,247.78,Cancelled,14,103,134,94651.96,94651.96
+ORD-1448,2024-02-07,Dar es Salaam Imports,Steel Rods,G4S Logistics,Eldoret,Tanzania,26,199.6,Delivered,5,655,135,5189.6,5189.6
+ORD-1347,2024-02-08,Pan-Africa Distributors,Safety Equipment,FedEx,Kisumu,Tanzania,272,173.51,Processing,11,508,127,47194.72,47194.72
+ORD-1082,2024-02-10,Kampala Wholesale,Chemical Compounds,Siginon Logistics,Mombasa,Uganda,429,68.92,Cancelled,2,801,152,29566.68,29566.68
+ORD-1065,2024-02-10,Nairobi Supplies Ltd,Steel Rods,DHL,Mombasa,Tanzania,23,43.87,Processing,0,307,138,1009.01,1009.01
+ORD-1238,2024-02-10,Global Freight KE,Medical Supplies,DHL,Nairobi,Ethiopia,368,152.68,Delivered,0,668,99,56186.24,56186.24
+ORD-1426,2024-02-11,Kampala Wholesale,Steel Rods,G4S Logistics,Eldoret,Uganda,374,53.88,Delivered,19,441,131,20151.12,20151.12
+ORD-1409,2024-02-11,Mombasa Trading Co,Packaging Material,G4S Logistics,Nairobi,Ethiopia,401,175.76,Delivered,14,258,133,70479.76,70479.76
+ORD-1239,2024-02-13,Rift Valley Suppliers,Raw Cotton,G4S Logistics,Mombasa,Uganda,207,71.38,Shipped,8,750,144,14775.66,14775.66
+ORD-1013,2024-02-14,Kenya Procurement Co,Safety Equipment,FedEx,Eldoret,Tanzania,468,102.21,Processing,16,619,116,47834.28,47834.28
+ORD-1160,2024-02-16,Pan-Africa Distributors,Machinery Parts,FedEx,Kisumu,Kenya,181,18.69,Delivered,2,916,188,3382.89,3382.89
+ORD-1050,2024-02-17,Global Freight KE,Machinery Parts,Siginon Logistics,Kisumu,Uganda,373,173.68,Delivered,3,184,141,64782.64,64782.64
+ORD-1359,2024-02-17,Lake Region Trading,Safety Equipment,Kenya Airways Cargo,Eldoret,Tanzania,462,191.19,Cancelled,8,373,156,88329.78,88329.78
+ORD-1018,2024-02-17,Nairobi Supplies Ltd,Packaging Material,G4S Logistics,Kisumu,Ethiopia,161,112.43,Processing,0,333,192,18101.23,18101.23
+ORD-1313,2024-02-18,Lake Region Trading,Office Supplies,Siginon Logistics,Kisumu,Rwanda,335,193.38,Delivered,8,59,181,64782.3,64782.3
+ORD-1314,2024-02-19,Global Freight KE,Steel Rods,G4S Logistics,Kisumu,Uganda,473,21.23,Processing,1,166,169,10041.79,10041.79
+ORD-1052,2024-02-19,Kampala Wholesale,Packaging Material,Kenya Airways Cargo,Mombasa,Kenya,253,229.23,Processing,0,222,80,57995.19,57995.19
+ORD-1327,2024-02-20,Rift Valley Suppliers,Safety Equipment,G4S Logistics,Kisumu,Ethiopia,208,175.64,Delivered,3,482,107,36533.12,36533.12
+ORD-1353,2024-02-20,Mombasa Trading Co,Steel Rods,Kenya Airways Cargo,Kisumu,Uganda,378,25.71,Processing,2,802,193,9718.38,9718.38
+ORD-1086,2024-02-21,Global Freight KE,Medical Supplies,FedEx,Mombasa,Rwanda,11,137.15,Delivered,0,217,152,1508.65,1508.65
+ORD-1453,2024-02-21,East Africa Logistics,Raw Cotton,DHL,Kisumu,Ethiopia,55,233.57,Delivered,5,626,123,12846.35,12846.35
+ORD-1049,2024-02-22,Dar es Salaam Imports,Raw Cotton,Siginon Logistics,Nairobi,Kenya,60,109.94,Shipped,5,796,145,6596.4,6596.4
+ORD-1009,2024-02-22,Nairobi Supplies Ltd,Raw Cotton,DHL,Nairobi,Rwanda,131,6.27,Shipped,6,155,91,821.37,821.37
+ORD-1482,2024-02-23,Lake Region Trading,Raw Cotton,DHL,Mombasa,Tanzania,63,21.32,Delivered,15,662,165,1343.16,1343.16
+ORD-1206,2024-02-24,Mombasa Trading Co,Safety Equipment,FedEx,Mombasa,Tanzania,252,141.22,Processing,7,325,127,35587.44,35587.44
+ORD-1487,2024-02-24,Mombasa Trading Co,Safety Equipment,Siginon Logistics,Mombasa,Rwanda,289,183.98,Delivered,3,340,141,53170.22,53170.22
+ORD-1334,2024-02-25,Global Freight KE,Machinery Parts,G4S Logistics,Eldoret,Ethiopia,347,206.34,Shipped,9,661,112,71599.98,71599.98
+ORD-1164,2024-02-26,Global Freight KE,Industrial Bearings,DHL,Eldoret,Rwanda,44,242.32,Shipped,3,472,100,10662.08,10662.08
+ORD-1227,2024-02-27,Global Freight KE,Safety Equipment,Kenya Airways Cargo,Nairobi,Rwanda,199,46.57,Delivered,10,140,184,9267.43,9267.43
+ORD-1001,2024-02-27,Rift Valley Suppliers,Raw Cotton,Siginon Logistics,Eldoret,Rwanda,445,38.47,Delivered,16,996,55,17119.15,17119.15
+ORD-1192,2024-02-27,Pan-Africa Distributors,Steel Rods,Kenya Airways Cargo,Kisumu,Kenya,397,145.01,Delivered,0,153,51,57568.97,57568.97
+ORD-1184,2024-02-28,Rift Valley Suppliers,Packaging Material,Kenya Airways Cargo,Eldoret,Kenya,470,123.01,Delivered,9,793,154,57814.7,57814.7
+ORD-1486,2024-02-29,Mombasa Trading Co,Safety Equipment,Kenya Airways Cargo,Kisumu,Ethiopia,183,86.54,Delivered,7,360,165,15836.82,15836.82
+ORD-1419,2024-03-02,Kampala Wholesale,Packaging Material,Kenya Airways Cargo,Nairobi,Kenya,479,181.02,Delivered,12,353,198,86708.58,86708.58
+ORD-1273,2024-03-02,Dar es Salaam Imports,Raw Cotton,FedEx,Kisumu,Kenya,11,55.24,Delivered,0,451,161,607.64,607.64
+ORD-1063,2024-03-04,Mombasa Trading Co,Steel Rods,G4S Logistics,Kisumu,Ethiopia,98,16.69,Cancelled,11,637,54,1635.62,1635.62
+ORD-1247,2024-03-05,Pan-Africa Distributors,Steel Rods,G4S Logistics,Eldoret,Kenya,243,219.78,Delivered,9,657,72,53406.54,53406.54
+ORD-1248,2024-03-06,Nairobi Supplies Ltd,Machinery Parts,FedEx,Eldoret,Tanzania,181,140.14,Delivered,0,1,79,25365.34,25365.34
+ORD-1441,2024-03-08,East Africa Logistics,Chemical Compounds,Kenya Airways Cargo,Eldoret,Kenya,326,172.72,Cancelled,0,11,82,56306.72,56306.72
+ORD-1302,2024-03-08,Dar es Salaam Imports,Packaging Material,FedEx,Eldoret,Ethiopia,381,27.3,Delivered,11,151,53,10401.3,10401.3
+ORD-1459,2024-03-08,Nairobi Supplies Ltd,Machinery Parts,Kenya Airways Cargo,Eldoret,Rwanda,46,16.78,Shipped,0,247,106,771.88,771.88
+ORD-1484,2024-03-09,Lake Region Trading,Packaging Material,Kenya Airways Cargo,Mombasa,Ethiopia,332,138.0,Delivered,0,748,169,45816.0,45816.0
+ORD-1157,2024-03-11,Pan-Africa Distributors,Steel Rods,DHL,Eldoret,Tanzania,225,233.08,Shipped,3,75,70,52443.0,52443.0
+ORD-1340,2024-03-12,Kenya Procurement Co,Safety Equipment,Kenya Airways Cargo,Nairobi,Ethiopia,482,92.22,Shipped,0,454,94,44450.04,44450.04
+ORD-1144,2024-03-12,Kampala Wholesale,Machinery Parts,FedEx,Mombasa,Kenya,499,91.95,Delivered,0,396,137,45883.05,45883.05
+ORD-1007,2024-03-12,Kampala Wholesale,Safety Equipment,Kenya Airways Cargo,Nairobi,Ethiopia,30,154.82,Delivered,0,555,61,4644.6,4644.6
+ORD-1142,2024-03-14,Kenya Procurement Co,Raw Cotton,Kenya Airways Cargo,Kisumu,Rwanda,388,239.84,Delivered,13,481,194,93057.92,93057.92
+ORD-1215,2024-03-19,Global Freight KE,Raw Cotton,Kenya Airways Cargo,Eldoret,Uganda,293,58.12,Delivered,12,335,81,17029.16,17029.16
+ORD-1165,2024-03-19,Pan-Africa Distributors,Steel Rods,FedEx,Eldoret,Uganda,458,173.57,Processing,12,416,54,79495.06,79495.06
+ORD-1045,2024-03-20,Kenya Procurement Co,Electronic Components,DHL,Eldoret,Ethiopia,199,187.29,Shipped,9,125,117,37270.71,37270.71
+ORD-1490,2024-03-20,Kenya Procurement Co,Chemical Compounds,FedEx,Mombasa,Tanzania,440,220.26,Cancelled,16,760,107,96914.4,96914.4
+ORD-1388,2024-03-20,Nairobi Supplies Ltd,Packaging Material,G4S Logistics,Mombasa,Uganda,162,148.7,Delivered,12,424,109,24089.4,24089.4
+ORD-1466,2024-03-21,East Africa Logistics,Safety Equipment,Kenya Airways Cargo,Eldoret,Uganda,197,62.74,Delivered,14,965,135,12359.78,12359.78
+ORD-1195,2024-03-21,Pan-Africa Distributors,Steel Rods,DHL,Nairobi,Rwanda,416,206.58,Processing,9,132,144,85937.28,85937.28
+ORD-1406,2024-03-21,Kampala Wholesale,Packaging Material,Kenya Airways Cargo,Nairobi,Ethiopia,313,211.37,Cancelled,6,811,122,66158.81,66158.81
+ORD-1040,2024-03-22,Global Freight KE,Steel Rods,FedEx,Nairobi,Kenya,179,242.54,Processing,0,692,166,43414.66,43414.66
+ORD-1167,2024-03-22,Mombasa Trading Co,Chemical Compounds,Siginon Logistics,Mombasa,Tanzania,110,217.38,Delivered,7,735,143,23911.8,23911.8
+ORD-1218,2024-03-23,East Africa Logistics,Chemical Compounds,FedEx,Eldoret,Tanzania,53,175.75,Cancelled,11,123,61,9314.75,9314.75
+ORD-1093,2024-03-24,Global Freight KE,Medical Supplies,FedEx,Kisumu,Uganda,200,201.23,Delivered,1,537,111,40246.0,40246.0
+ORD-1109,2024-03-24,East Africa Logistics,Office Supplies,Kenya Airways Cargo,Kisumu,Ethiopia,199,165.65,Processing,7,653,62,32964.35,32964.35
+ORD-1371,2024-03-25,Dar es Salaam Imports,Safety Equipment,G4S Logistics,Kisumu,Ethiopia,63,102.31,Shipped,10,217,113,6445.53,6445.53
+ORD-1252,2024-03-25,Kenya Procurement Co,Medical Supplies,FedEx,Kisumu,Ethiopia,383,122.69,Cancelled,1,89,74,46990.27,46990.27
+ORD-1363,2024-03-26,Nairobi Supplies Ltd,Raw Cotton,Siginon Logistics,Kisumu,Uganda,242,41.2,Delivered,20,752,130,9970.4,9970.4
+ORD-1105,2024-03-28,East Africa Logistics,Machinery Parts,G4S Logistics,Nairobi,Tanzania,465,97.43,Processing,0,0,107,45304.95,45304.95
+ORD-1204,2024-04-01,East Africa Logistics,Safety Equipment,Siginon Logistics,Nairobi,Ethiopia,336,201.52,Delivered,0,943,195,67710.72,67710.72
+ORD-1342,2024-04-03,Kenya Procurement Co,Industrial Bearings,Siginon Logistics,Mombasa,Uganda,160,36.54,Delivered,11,522,53,5846.4,5846.4
+ORD-1411,2024-04-05,Mombasa Trading Co,Steel Rods,G4S Logistics,Nairobi,Rwanda,204,224.67,Delivered,3,837,156,45832.68,45832.68
+ORD-1337,2024-04-07,Global Freight KE,Medical Supplies,DHL,Eldoret,Ethiopia,276,12.79,Delivered,4,654,96,3530.04,3530.04
+ORD-1389,2024-04-07,East Africa Logistics,Machinery Parts,G4S Logistics,Eldoret,Rwanda,358,143.29,Delivered,9,998,157,51297.82,51297.82
+ORD-1312,2024-04-07,Kampala Wholesale,Chemical Compounds,Kenya Airways Cargo,Mombasa,Rwanda,196,211.31,Delivered,4,611,104,41416.76,41416.76
+ORD-1336,2024-04-08,East Africa Logistics,Safety Equipment,Siginon Logistics,Mombasa,Uganda,138,90.17,Processing,0,804,162,12443.46,12443.46
+ORD-1074,2024-04-08,Global Freight KE,Office Supplies,FedEx,Mombasa,Tanzania,453,192.02,Delivered,6,775,122,86985.06,86985.06
+ORD-1214,2024-04-11,Mombasa Trading Co,Industrial Bearings,DHL,Mombasa,Ethiopia,143,45.72,Shipped,13,618,171,6537.96,6537.96
+ORD-1025,2024-04-11,Lake Region Trading,Raw Cotton,G4S Logistics,Kisumu,Tanzania,303,66.31,Shipped,6,796,74,20091.93,20091.93
+ORD-1263,2024-04-12,Global Freight KE,Raw Cotton,G4S Logistics,Mombasa,Uganda,304,23.46,Delivered,1,582,181,7131.84,7131.84
+ORD-1497,2024-04-14,Global Freight KE,Office Supplies,Siginon Logistics,Eldoret,Kenya,395,195.75,Shipped,0,406,146,77321.25,77321.25
+ORD-1434,2024-04-14,Kampala Wholesale,Industrial Bearings,Siginon Logistics,Eldoret,Tanzania,295,83.56,Processing,0,207,134,24650.2,24650.2
+ORD-1494,2024-04-17,East Africa Logistics,Office Supplies,DHL,Nairobi,Tanzania,136,249.43,Delivered,8,834,115,33922.48,33922.48
+ORD-1096,2024-04-17,Kampala Wholesale,Electronic Components,Kenya Airways Cargo,Mombasa,Uganda,53,36.48,Delivered,9,743,63,1933.44,1933.44
+ORD-1131,2024-04-18,Mombasa Trading Co,Electronic Components,Kenya Airways Cargo,Kisumu,Ethiopia,353,63.46,Processing,5,488,109,22401.38,22401.38
+ORD-1258,2024-04-18,Global Freight KE,Electronic Components,Kenya Airways Cargo,Kisumu,Tanzania,122,144.42,Delivered,4,107,121,17619.24,17619.24
+ORD-1136,2024-04-18,Pan-Africa Distributors,Raw Cotton,Siginon Logistics,Kisumu,Rwanda,148,135.91,Shipped,0,101,107,20114.68,20114.68
+ORD-1300,2024-04-19,Pan-Africa Distributors,Office Supplies,Kenya Airways Cargo,Nairobi,Kenya,289,160.98,Delivered,7,681,198,46523.22,46523.22
+ORD-1367,2024-04-19,Pan-Africa Distributors,Medical Supplies,DHL,Kisumu,Uganda,217,188.66,Delivered,0,699,84,40939.22,40939.22
+ORD-1456,2024-04-19,Pan-Africa Distributors,Office Supplies,Kenya Airways Cargo,Eldoret,Ethiopia,108,97.91,Processing,12,516,51,10574.28,10574.28
+ORD-1046,2024-04-20,Global Freight KE,Machinery Parts,DHL,Nairobi,Uganda,455,66.46,Shipped,10,993,61,30239.3,30239.3
+ORD-1391,2024-04-21,Mombasa Trading Co,Safety Equipment,G4S Logistics,Eldoret,Rwanda,393,87.67,Delivered,10,780,80,34454.31,34454.31
+ORD-1019,2024-04-21,East Africa Logistics,Safety Equipment,Kenya Airways Cargo,Eldoret,Ethiopia,140,169.65,Processing,1,641,198,23751.0,23751.0
+ORD-1156,2024-04-22,Mombasa Trading Co,Medical Supplies,FedEx,Mombasa,Tanzania,71,32.8,Processing,21,64,197,2328.8,2328.8
+ORD-1116,2024-04-22,Kampala Wholesale,Medical Supplies,DHL,Eldoret,Kenya,62,90.34,Delivered,3,219,83,5601.08,5601.08
+ORD-1283,2024-04-22,Nairobi Supplies Ltd,Industrial Bearings,Kenya Airways Cargo,Kisumu,Tanzania,135,121.67,Processing,0,890,170,16425.45,16425.45
+ORD-1031,2024-04-22,Kampala Wholesale,Raw Cotton,Kenya Airways Cargo,Eldoret,Kenya,469,71.53,Processing,2,756,114,33547.57,33547.57
+ORD-1006,2024-04-24,Global Freight KE,Medical Supplies,G4S Logistics,Eldoret,Tanzania,198,67.77,Cancelled,18,631,150,13418.46,13418.46
+ORD-1275,2024-04-25,Global Freight KE,Machinery Parts,FedEx,Kisumu,Tanzania,229,72.31,Cancelled,4,774,186,16558.99,16558.99
+ORD-1079,2024-04-26,Kampala Wholesale,Raw Cotton,DHL,Kisumu,Kenya,44,16.77,Processing,16,494,146,737.88,737.88
+ORD-1289,2024-04-27,Mombasa Trading Co,Packaging Material,FedEx,Mombasa,Rwanda,207,199.0,Delivered,10,725,150,41193.0,41193.0
+ORD-1123,2024-04-27,Lake Region Trading,Chemical Compounds,Kenya Airways Cargo,Mombasa,Kenya,50,144.29,Processing,7,680,190,7214.5,7214.5
+ORD-1281,2024-04-27,Nairobi Supplies Ltd,Packaging Material,G4S Logistics,Kisumu,Ethiopia,394,10.44,Delivered,11,361,63,4113.36,4113.36
+ORD-1020,2024-04-29,East Africa Logistics,Industrial Bearings,DHL,Nairobi,Rwanda,159,85.4,Cancelled,9,968,115,13578.6,13578.6
+ORD-1084,2024-04-29,East Africa Logistics,Industrial Bearings,Kenya Airways Cargo,Nairobi,Tanzania,369,233.69,Shipped,1,310,66,86231.61,86231.61
+ORD-1417,2024-04-30,Mombasa Trading Co,Raw Cotton,Siginon Logistics,Eldoret,Tanzania,452,182.11,Processing,3,208,197,82313.72,82313.72
+ORD-1296,2024-05-01,Pan-Africa Distributors,Packaging Material,Kenya Airways Cargo,Mombasa,Tanzania,132,226.27,Processing,5,983,73,29867.64,29867.64
+ORD-1362,2024-05-01,Dar es Salaam Imports,Chemical Compounds,Siginon Logistics,Nairobi,Ethiopia,18,20.27,Delivered,0,936,167,364.86,364.86
+ORD-1233,2024-05-02,Pan-Africa Distributors,Machinery Parts,G4S Logistics,Mombasa,Ethiopia,130,68.69,Processing,4,963,78,8929.7,8929.7
+ORD-1438,2024-05-02,Kampala Wholesale,Industrial Bearings,DHL,Kisumu,Kenya,457,139.41,Delivered,3,632,176,63710.37,63710.37
+ORD-1235,2024-05-03,Dar es Salaam Imports,Electronic Components,Kenya Airways Cargo,Mombasa,Tanzania,470,12.92,Cancelled,3,563,51,6072.4,6072.4
+ORD-1307,2024-05-04,Kenya Procurement Co,Safety Equipment,FedEx,Nairobi,Kenya,249,78.0,Shipped,0,292,120,19422.0,19422.0
+ORD-1005,2024-05-05,East Africa Logistics,Raw Cotton,Kenya Airways Cargo,Mombasa,Uganda,81,107.85,Delivered,9,496,109,8735.85,8735.85
+ORD-1463,2024-05-05,Kampala Wholesale,Office Supplies,Siginon Logistics,Mombasa,Ethiopia,190,200.89,Shipped,8,285,193,38169.1,38169.1
+ORD-1108,2024-05-05,Dar es Salaam Imports,Raw Cotton,G4S Logistics,Nairobi,Rwanda,261,87.46,Cancelled,9,975,114,22827.06,22827.06
+ORD-1274,2024-05-06,Dar es Salaam Imports,Electronic Components,FedEx,Kisumu,Kenya,139,66.6,Shipped,6,885,62,9257.4,9257.4
+ORD-1145,2024-05-06,Rift Valley Suppliers,Machinery Parts,Kenya Airways Cargo,Mombasa,Rwanda,240,239.42,Cancelled,4,278,118,57460.8,57460.8
+ORD-1421,2024-05-06,Rift Valley Suppliers,Office Supplies,Kenya Airways Cargo,Kisumu,Uganda,31,121.77,Cancelled,13,797,177,3774.87,3774.87
+ORD-1335,2024-05-07,Pan-Africa Distributors,Electronic Components,FedEx,Eldoret,Tanzania,369,89.55,Delivered,10,431,165,33043.95,33043.95
+ORD-1345,2024-05-07,Lake Region Trading,Medical Supplies,G4S Logistics,Mombasa,Tanzania,307,27.61,Processing,0,589,192,8476.27,8476.27
+ORD-1178,2024-05-08,Mombasa Trading Co,Safety Equipment,Siginon Logistics,Mombasa,Uganda,402,220.69,Cancelled,7,841,122,88717.38,88717.38
+ORD-1433,2024-05-13,Kenya Procurement Co,Machinery Parts,FedEx,Kisumu,Ethiopia,286,233.34,Delivered,4,310,138,66735.24,66735.24
+ORD-1201,2024-05-14,Mombasa Trading Co,Electronic Components,G4S Logistics,Mombasa,Uganda,45,25.31,Cancelled,2,739,59,1138.95,1138.95
+ORD-1149,2024-05-14,Mombasa Trading Co,Office Supplies,DHL,Eldoret,Kenya,210,25.4,Cancelled,6,640,126,5334.0,5334.0
+ORD-1485,2024-05-15,East Africa Logistics,Medical Supplies,Kenya Airways Cargo,Kisumu,Rwanda,369,110.72,Shipped,1,577,128,40855.68,40855.68
+ORD-1057,2024-05-15,Pan-Africa Distributors,Packaging Material,G4S Logistics,Mombasa,Ethiopia,144,233.98,Delivered,1,918,183,33693.12,33693.12
+ORD-1253,2024-05-15,Pan-Africa Distributors,Raw Cotton,G4S Logistics,Eldoret,Tanzania,169,246.4,Shipped,9,344,177,41641.6,41641.6
+ORD-1375,2024-05-15,Rift Valley Suppliers,Industrial Bearings,DHL,Nairobi,Ethiopia,125,143.17,Cancelled,8,166,54,17896.25,17896.25
+ORD-1143,2024-05-15,East Africa Logistics,Raw Cotton,Kenya Airways Cargo,Eldoret,Tanzania,270,212.55,Delivered,5,593,136,57388.5,57388.5
+ORD-1439,2024-05-15,Kenya Procurement Co,Industrial Bearings,Siginon Logistics,Eldoret,Kenya,490,139.49,Delivered,0,54,120,68350.1,68350.1
+ORD-1458,2024-05-15,Lake Region Trading,Chemical Compounds,Kenya Airways Cargo,Mombasa,Kenya,242,181.79,Shipped,0,871,161,43993.18,43993.18
+ORD-1098,2024-05-16,Global Freight KE,Office Supplies,DHL,Mombasa,Rwanda,211,206.06,Delivered,5,587,182,43478.66,43478.66
+ORD-1188,2024-05-16,Lake Region Trading,Steel Rods,Siginon Logistics,Kisumu,Uganda,240,85.91,Shipped,3,453,59,20618.4,20618.4
+ORD-1129,2024-05-17,Kampala Wholesale,Packaging Material,G4S Logistics,Kisumu,Rwanda,336,217.44,Processing,0,588,178,73059.84,73059.84
+ORD-1112,2024-05-18,Kampala Wholesale,Chemical Compounds,DHL,Nairobi,Kenya,217,88.45,Delivered,6,68,198,19193.65,19193.65
+ORD-1491,2024-05-19,Mombasa Trading Co,Safety Equipment,Siginon Logistics,Eldoret,Ethiopia,351,126.38,Cancelled,1,968,77,44359.38,44359.38
+ORD-1004,2024-05-20,Nairobi Supplies Ltd,Raw Cotton,DHL,Nairobi,Ethiopia,116,77.64,Delivered,0,304,135,9006.24,9006.24
+ORD-1044,2024-05-22,Kenya Procurement Co,Safety Equipment,FedEx,Mombasa,Uganda,280,111.21,Cancelled,4,810,128,31138.8,31138.8
+ORD-1088,2024-05-22,Dar es Salaam Imports,Industrial Bearings,G4S Logistics,Mombasa,Ethiopia,63,155.88,Delivered,5,969,101,9820.44,9820.44
+ORD-1297,2024-05-22,East Africa Logistics,Office Supplies,FedEx,Nairobi,Tanzania,410,156.23,Cancelled,10,377,86,64054.3,64054.3
+ORD-1343,2024-05-22,Rift Valley Suppliers,Industrial Bearings,DHL,Eldoret,Tanzania,424,85.87,Shipped,2,649,197,36408.88,36408.88
+ORD-1034,2024-05-22,Dar es Salaam Imports,Medical Supplies,Kenya Airways Cargo,Kisumu,Kenya,262,211.3,Delivered,8,160,103,55360.6,55360.6
+ORD-1492,2024-05-24,Kenya Procurement Co,Steel Rods,Kenya Airways Cargo,Kisumu,Rwanda,160,186.66,Cancelled,4,448,75,29865.6,29865.6
+ORD-1465,2024-05-25,Mombasa Trading Co,Chemical Compounds,Siginon Logistics,Nairobi,Kenya,108,50.67,Delivered,13,83,174,5472.36,5472.36
+ORD-1379,2024-05-26,East Africa Logistics,Safety Equipment,DHL,Eldoret,Rwanda,429,62.14,Shipped,0,740,53,26658.06,26658.06
+ORD-1081,2024-05-28,Lake Region Trading,Safety Equipment,G4S Logistics,Mombasa,Uganda,90,222.24,Delivered,0,174,53,20001.6,20001.6
+ORD-1193,2024-05-30,Kenya Procurement Co,Office Supplies,Kenya Airways Cargo,Nairobi,Kenya,231,186.54,Delivered,5,664,167,43090.74,43090.74
+ORD-1067,2024-05-30,Global Freight KE,Safety Equipment,Siginon Logistics,Nairobi,Tanzania,274,88.76,Cancelled,0,945,175,24320.24,24320.24
+ORD-1390,2024-05-31,Kampala Wholesale,Electronic Components,DHL,Kisumu,Kenya,411,97.8,Delivered,10,707,106,40195.8,40195.8
+ORD-1209,2024-06-01,Dar es Salaam Imports,Packaging Material,Siginon Logistics,Eldoret,Uganda,75,231.54,Delivered,4,363,71,17365.5,17365.5
+ORD-1480,2024-06-02,Kampala Wholesale,Chemical Compounds,Kenya Airways Cargo,Mombasa,Ethiopia,499,100.91,Delivered,0,803,117,50354.09,50354.09
+ORD-1444,2024-06-02,Kampala Wholesale,Medical Supplies,FedEx,Mombasa,Rwanda,13,5.66,Cancelled,11,907,110,73.58,73.58
+ORD-1471,2024-06-03,Lake Region Trading,Medical Supplies,G4S Logistics,Nairobi,Kenya,478,172.33,Processing,4,799,187,82373.74,82373.74
+ORD-1232,2024-06-06,Global Freight KE,Medical Supplies,Kenya Airways Cargo,Eldoret,Ethiopia,455,93.28,Shipped,6,892,141,42442.4,42442.4
+ORD-1265,2024-06-08,Pan-Africa Distributors,Industrial Bearings,DHL,Kisumu,Uganda,396,135.91,Shipped,4,311,113,53820.36,53820.36
+ORD-1398,2024-06-09,Rift Valley Suppliers,Packaging Material,G4S Logistics,Nairobi,Tanzania,454,6.85,Processing,11,538,63,3109.9,3109.9
+ORD-1437,2024-06-09,Rift Valley Suppliers,Medical Supplies,FedEx,Eldoret,Kenya,376,116.3,Delivered,23,669,166,43728.8,43728.8
+ORD-1127,2024-06-10,Rift Valley Suppliers,Medical Supplies,Kenya Airways Cargo,Eldoret,Tanzania,74,66.25,Delivered,7,584,169,4902.5,4902.5
+ORD-1135,2024-06-10,Dar es Salaam Imports,Safety Equipment,FedEx,Mombasa,Rwanda,72,97.54,Cancelled,0,380,59,7022.88,7022.88
+ORD-1446,2024-06-10,Pan-Africa Distributors,Safety Equipment,Kenya Airways Cargo,Nairobi,Rwanda,201,120.93,Cancelled,13,979,77,24306.93,24306.93
+ORD-1432,2024-06-10,Rift Valley Suppliers,Electronic Components,Kenya Airways Cargo,Nairobi,Ethiopia,235,129.0,Shipped,1,302,164,30315.0,30315.0
+ORD-1224,2024-06-14,Global Freight KE,Packaging Material,G4S Logistics,Nairobi,Tanzania,357,101.66,Delivered,6,782,185,36292.62,36292.62
+ORD-1118,2024-06-15,Kenya Procurement Co,Packaging Material,G4S Logistics,Eldoret,Ethiopia,419,14.6,Processing,2,703,161,6117.4,6117.4
+ORD-1293,2024-06-18,Kenya Procurement Co,Chemical Compounds,Siginon Logistics,Mombasa,Uganda,448,197.24,Cancelled,5,520,181,88363.52,88363.52
+ORD-1048,2024-06-21,Kenya Procurement Co,Industrial Bearings,FedEx,Kisumu,Tanzania,455,24.81,Shipped,2,305,177,11288.55,11288.55
+ORD-1277,2024-06-22,Global Freight KE,Electronic Components,Kenya Airways Cargo,Eldoret,Kenya,352,220.16,Delivered,10,384,139,77496.32,77496.32
+ORD-1331,2024-06-22,Rift Valley Suppliers,Machinery Parts,FedEx,Nairobi,Tanzania,433,243.41,Processing,9,630,143,105396.53,105396.53
+ORD-1043,2024-06-23,Mombasa Trading Co,Industrial Bearings,DHL,Eldoret,Rwanda,473,102.71,Shipped,3,250,74,48581.83,48581.83
+ORD-1191,2024-06-23,Rift Valley Suppliers,Safety Equipment,DHL,Eldoret,Tanzania,105,104.27,Delivered,11,220,140,10948.35,10948.35
+ORD-1496,2024-06-24,Nairobi Supplies Ltd,Machinery Parts,G4S Logistics,Eldoret,Rwanda,499,178.21,Delivered,0,701,93,88926.79,88926.79
+ORD-1055,2024-06-25,Global Freight KE,Medical Supplies,Kenya Airways Cargo,Mombasa,Rwanda,494,28.0,Delivered,10,426,195,13832.0,13832.0
+ORD-1460,2024-06-27,Kenya Procurement Co,Office Supplies,DHL,Kisumu,Uganda,289,196.47,Processing,0,363,115,56779.83,56779.83
+ORD-1317,2024-06-30,East Africa Logistics,Industrial Bearings,FedEx,Nairobi,Uganda,157,90.12,Processing,7,145,196,14148.84,14148.84
+ORD-1095,2024-06-30,Mombasa Trading Co,Industrial Bearings,Kenya Airways Cargo,Kisumu,Rwanda,227,145.47,Shipped,5,302,141,33021.69,33021.69
+ORD-1053,2024-07-02,Kenya Procurement Co,Medical Supplies,FedEx,Mombasa,Ethiopia,329,113.38,Delivered,6,183,127,37302.02,37302.02
+ORD-1072,2024-07-04,Dar es Salaam Imports,Raw Cotton,Siginon Logistics,Eldoret,Kenya,101,47.96,Delivered,0,340,148,4843.96,4843.96
+ORD-1155,2024-07-04,Nairobi Supplies Ltd,Chemical Compounds,FedEx,Mombasa,Rwanda,416,196.42,Delivered,0,654,182,81710.72,81710.72
+ORD-1228,2024-07-04,Global Freight KE,Machinery Parts,Kenya Airways Cargo,Eldoret,Ethiopia,234,163.48,Cancelled,0,469,135,38254.32,38254.32
+ORD-1092,2024-07-05,East Africa Logistics,Machinery Parts,Kenya Airways Cargo,Kisumu,Tanzania,486,160.92,Delivered,0,144,165,78207.12,78207.12
+ORD-1094,2024-07-08,Lake Region Trading,Medical Supplies,FedEx,Nairobi,Ethiopia,411,170.91,Delivered,20,647,56,70244.01,70244.01
+ORD-1464,2024-07-08,East Africa Logistics,Machinery Parts,Siginon Logistics,Nairobi,Ethiopia,104,207.16,Processing,2,148,161,21544.64,21544.64
+ORD-1216,2024-07-10,Kenya Procurement Co,Steel Rods,DHL,Kisumu,Kenya,37,77.15,Cancelled,10,814,168,2854.55,2854.55
+ORD-1269,2024-07-10,Global Freight KE,Machinery Parts,FedEx,Mombasa,Rwanda,449,182.9,Delivered,0,297,198,82122.1,82122.1
+ORD-1064,2024-07-12,Mombasa Trading Co,Chemical Compounds,DHL,Eldoret,Rwanda,325,143.68,Shipped,1,812,59,46696.0,46696.0
+ORD-1111,2024-07-13,Rift Valley Suppliers,Office Supplies,Siginon Logistics,Eldoret,Rwanda,222,172.0,Shipped,10,303,188,38184.0,38184.0
+ORD-1087,2024-07-13,Dar es Salaam Imports,Chemical Compounds,Siginon Logistics,Kisumu,Rwanda,399,172.57,Shipped,10,426,173,68855.43,68855.43
+ORD-1372,2024-07-13,Kampala Wholesale,Steel Rods,G4S Logistics,Kisumu,Rwanda,129,30.69,Processing,4,101,98,3959.01,3959.01
+ORD-1051,2024-07-13,Mombasa Trading Co,Industrial Bearings,Siginon Logistics,Kisumu,Uganda,64,19.26,Delivered,6,38,190,1232.64,1232.64
+ORD-1174,2024-07-14,Rift Valley Suppliers,Machinery Parts,Kenya Airways Cargo,Kisumu,Rwanda,264,130.76,Delivered,6,866,161,34520.64,34520.64
+ORD-1173,2024-07-16,Kenya Procurement Co,Office Supplies,Kenya Airways Cargo,Eldoret,Ethiopia,227,40.92,Processing,0,266,160,9288.84,9288.84
+ORD-1374,2024-07-18,Kampala Wholesale,Steel Rods,Siginon Logistics,Nairobi,Rwanda,417,49.66,Processing,0,287,123,20708.22,20708.22
+ORD-1139,2024-07-21,Mombasa Trading Co,Office Supplies,G4S Logistics,Mombasa,Kenya,172,77.92,Cancelled,8,613,83,13402.24,13402.24
+ORD-1440,2024-07-21,Pan-Africa Distributors,Medical Supplies,DHL,Eldoret,Tanzania,462,54.42,Delivered,2,911,135,25142.04,25142.04
+ORD-1154,2024-07-23,Nairobi Supplies Ltd,Office Supplies,Kenya Airways Cargo,Kisumu,Rwanda,57,236.82,Processing,9,724,66,13498.74,13498.74
+ORD-1266,2024-07-23,Kenya Procurement Co,Chemical Compounds,Kenya Airways Cargo,Mombasa,Ethiopia,122,188.73,Delivered,8,240,155,23025.06,23025.06
+ORD-1128,2024-07-24,Nairobi Supplies Ltd,Office Supplies,FedEx,Mombasa,Kenya,354,147.23,Delivered,4,756,186,52119.42,52119.42
+ORD-1369,2024-07-24,Dar es Salaam Imports,Electronic Components,FedEx,Kisumu,Ethiopia,413,217.47,Delivered,5,530,118,89815.11,89815.11
+ORD-1418,2024-07-25,Pan-Africa Distributors,Industrial Bearings,Kenya Airways Cargo,Kisumu,Ethiopia,380,206.11,Delivered,17,802,192,78321.8,78321.8
+ORD-1329,2024-07-25,Dar es Salaam Imports,Medical Supplies,Kenya Airways Cargo,Nairobi,Uganda,498,219.21,Processing,2,225,149,109166.58,109166.58
+ORD-1311,2024-07-27,Nairobi Supplies Ltd,Electronic Components,Siginon Logistics,Eldoret,Ethiopia,133,117.54,Delivered,4,530,129,15632.82,15632.82
+ORD-1364,2024-07-27,Pan-Africa Distributors,Industrial Bearings,G4S Logistics,Eldoret,Tanzania,108,37.61,Processing,0,458,158,4061.88,4061.88
+ORD-1319,2024-07-29,Mombasa Trading Co,Office Supplies,G4S Logistics,Nairobi,Kenya,452,147.01,Processing,1,675,196,66448.52,66448.52
+ORD-1427,2024-08-02,Mombasa Trading Co,Office Supplies,Kenya Airways Cargo,Kisumu,Rwanda,60,185.38,Cancelled,2,547,118,11122.8,11122.8
+ORD-1030,2024-08-02,Nairobi Supplies Ltd,Chemical Compounds,G4S Logistics,Eldoret,Tanzania,170,207.83,Shipped,7,484,63,35331.1,35331.1
+ORD-1318,2024-08-04,Lake Region Trading,Raw Cotton,FedEx,Mombasa,Tanzania,261,56.24,Processing,0,914,109,14678.64,14678.64
+ORD-1341,2024-08-04,Global Freight KE,Packaging Material,DHL,Kisumu,Rwanda,443,224.08,Delivered,13,159,194,99267.44,99267.44
+ORD-1170,2024-08-04,East Africa Logistics,Medical Supplies,Siginon Logistics,Nairobi,Kenya,140,59.53,Shipped,8,939,113,8334.2,8334.2
+ORD-1257,2024-08-04,Nairobi Supplies Ltd,Safety Equipment,Siginon Logistics,Eldoret,Kenya,189,208.15,Delivered,10,350,193,39340.35,39340.35
+ORD-1380,2024-08-04,Mombasa Trading Co,Medical Supplies,DHL,Kisumu,Kenya,431,89.02,Cancelled,10,352,175,38367.62,38367.62
+ORD-1015,2024-08-04,Rift Valley Suppliers,Electronic Components,FedEx,Mombasa,Ethiopia,382,222.22,Shipped,14,956,56,84888.04,84888.04
+ORD-1042,2024-08-04,Kenya Procurement Co,Raw Cotton,Siginon Logistics,Nairobi,Rwanda,197,15.06,Shipped,11,215,198,2966.82,2966.82
+ORD-1152,2024-08-07,Mombasa Trading Co,Steel Rods,FedEx,Mombasa,Uganda,427,140.66,Delivered,10,454,178,60061.82,60061.82
+ORD-1316,2024-08-08,Mombasa Trading Co,Chemical Compounds,Siginon Logistics,Nairobi,Kenya,268,157.1,Delivered,14,856,131,42102.8,42102.8
+ORD-1194,2024-08-10,Pan-Africa Distributors,Chemical Compounds,DHL,Mombasa,Tanzania,494,192.96,Delivered,12,11,62,95322.24,95322.24
+ORD-1467,2024-08-12,Rift Valley Suppliers,Safety Equipment,FedEx,Nairobi,Uganda,490,160.27,Delivered,12,405,125,78532.3,78532.3
+ORD-1270,2024-08-12,Dar es Salaam Imports,Industrial Bearings,Kenya Airways Cargo,Eldoret,Rwanda,90,190.48,Delivered,8,951,177,17143.2,17143.2
+ORD-1348,2024-08-14,Pan-Africa Distributors,Electronic Components,Siginon Logistics,Kisumu,Kenya,261,130.36,Delivered,1,440,173,34023.96,34023.96
+ORD-1032,2024-08-17,Dar es Salaam Imports,Office Supplies,DHL,Nairobi,Rwanda,323,241.49,Delivered,0,58,159,78001.27,78001.27
+ORD-1339,2024-08-17,Pan-Africa Distributors,Chemical Compounds,Siginon Logistics,Mombasa,Tanzania,450,135.93,Shipped,0,987,167,61168.5,61168.5
+ORD-1272,2024-08-19,Pan-Africa Distributors,Medical Supplies,FedEx,Eldoret,Kenya,122,64.07,Delivered,5,83,115,7816.54,7816.54
+ORD-1378,2024-08-20,Mombasa Trading Co,Electronic Components,Kenya Airways Cargo,Mombasa,Ethiopia,465,136.16,Shipped,7,743,139,63314.4,63314.4
+ORD-1196,2024-08-20,Kampala Wholesale,Medical Supplies,G4S Logistics,Eldoret,Rwanda,240,187.33,Processing,10,993,193,44959.2,44959.2
+ORD-1089,2024-08-20,Global Freight KE,Electronic Components,DHL,Mombasa,Tanzania,115,236.25,Cancelled,10,413,101,27168.75,27168.75
+ORD-1450,2024-08-22,Nairobi Supplies Ltd,Packaging Material,G4S Logistics,Mombasa,Ethiopia,229,213.43,Delivered,10,236,147,48875.47,48875.47
+ORD-1141,2024-08-22,Pan-Africa Distributors,Industrial Bearings,Siginon Logistics,Nairobi,Tanzania,298,18.1,Cancelled,8,453,128,5393.8,5393.8
+ORD-1445,2024-08-22,Pan-Africa Distributors,Medical Supplies,DHL,Kisumu,Uganda,44,33.59,Delivered,3,647,147,1477.96,1477.96
+ORD-1061,2024-08-23,Dar es Salaam Imports,Safety Equipment,FedEx,Nairobi,Tanzania,283,111.74,Delivered,0,150,109,31622.42,31622.42
+ORD-1110,2024-08-24,Kampala Wholesale,Industrial Bearings,DHL,Mombasa,Uganda,305,99.42,Processing,13,52,131,30323.1,30323.1
+ORD-1344,2024-08-24,Kampala Wholesale,Raw Cotton,Siginon Logistics,Kisumu,Ethiopia,487,83.79,Processing,4,968,96,40805.73,40805.73
+ORD-1320,2024-08-27,East Africa Logistics,Safety Equipment,FedEx,Mombasa,Ethiopia,429,88.68,Cancelled,3,969,98,38043.72,38043.72
+ORD-1176,2024-08-27,Nairobi Supplies Ltd,Safety Equipment,Siginon Logistics,Nairobi,Kenya,368,147.42,Cancelled,6,621,185,54250.56,54250.56
+ORD-1309,2024-08-30,East Africa Logistics,Safety Equipment,G4S Logistics,Eldoret,Tanzania,106,175.92,Shipped,1,49,63,18647.52,18647.52
+ORD-1306,2024-08-30,East Africa Logistics,Steel Rods,Siginon Logistics,Mombasa,Ethiopia,404,228.07,Cancelled,2,858,168,92140.28,92140.28
+ORD-1250,2024-08-31,Dar es Salaam Imports,Chemical Compounds,Kenya Airways Cargo,Mombasa,Ethiopia,472,105.76,Delivered,3,588,157,49918.72,49918.72
+ORD-1402,2024-09-01,Rift Valley Suppliers,Packaging Material,Siginon Logistics,Mombasa,Rwanda,77,213.45,Cancelled,10,229,193,16435.65,16435.65
+ORD-1366,2024-09-03,Kenya Procurement Co,Electronic Components,DHL,Eldoret,Tanzania,313,211.89,Delivered,4,279,196,66321.57,66321.57
+ORD-1299,2024-09-05,Mombasa Trading Co,Office Supplies,G4S Logistics,Mombasa,Uganda,303,153.98,Delivered,17,636,152,46655.94,46655.94
+ORD-1365,2024-09-05,Dar es Salaam Imports,Steel Rods,DHL,Mombasa,Uganda,156,173.36,Delivered,5,998,100,27044.16,27044.16
+ORD-1241,2024-09-05,Lake Region Trading,Medical Supplies,Kenya Airways Cargo,Eldoret,Ethiopia,420,23.67,Delivered,3,290,93,9941.4,9941.4
+ORD-1387,2024-09-06,Pan-Africa Distributors,Electronic Components,Siginon Logistics,Eldoret,Tanzania,108,141.65,Delivered,14,69,90,15298.2,15298.2
+ORD-1225,2024-09-07,Nairobi Supplies Ltd,Packaging Material,G4S Logistics,Eldoret,Rwanda,482,31.16,Delivered,13,323,95,15019.12,15019.12
+ORD-1159,2024-09-09,East Africa Logistics,Electronic Components,Kenya Airways Cargo,Eldoret,Ethiopia,108,249.0,Shipped,11,142,159,26892.0,26892.0
+ORD-1138,2024-09-12,Pan-Africa Distributors,Steel Rods,Siginon Logistics,Kisumu,Kenya,401,100.46,Delivered,6,643,77,40284.46,40284.46
+ORD-1202,2024-09-13,Kampala Wholesale,Raw Cotton,G4S Logistics,Eldoret,Rwanda,22,134.45,Cancelled,5,782,64,2957.9,2957.9
+ORD-1403,2024-09-14,Dar es Salaam Imports,Packaging Material,FedEx,Mombasa,Rwanda,298,26.53,Processing,8,711,155,7905.94,7905.94
+ORD-1021,2024-09-15,Kenya Procurement Co,Packaging Material,Kenya Airways Cargo,Mombasa,Rwanda,318,42.99,Processing,6,510,140,13670.82,13670.82
+ORD-1205,2024-09-16,Kampala Wholesale,Chemical Compounds,G4S Logistics,Nairobi,Kenya,196,244.59,Delivered,3,342,108,47939.64,47939.64
+ORD-1457,2024-09-16,East Africa Logistics,Steel Rods,DHL,Mombasa,Ethiopia,389,231.98,Delivered,7,979,71,90240.22,90240.22
+ORD-1212,2024-09-16,Kenya Procurement Co,Industrial Bearings,DHL,Kisumu,Rwanda,71,175.38,Shipped,13,20,169,12451.98,12451.98
+ORD-1408,2024-09-17,Kampala Wholesale,Industrial Bearings,G4S Logistics,Eldoret,Ethiopia,393,9.47,Cancelled,13,57,156,3721.71,3721.71
+ORD-1158,2024-09-17,Lake Region Trading,Electronic Components,FedEx,Eldoret,Tanzania,302,243.69,Shipped,3,710,107,73594.38,73594.38
+ORD-1295,2024-09-20,Kenya Procurement Co,Electronic Components,Siginon Logistics,Mombasa,Tanzania,193,202.24,Shipped,11,9,187,39032.32,39032.32
+ORD-1271,2024-09-21,Mombasa Trading Co,Machinery Parts,Siginon Logistics,Kisumu,Ethiopia,196,97.57,Delivered,19,35,95,19123.72,19123.72
+ORD-1431,2024-09-24,Nairobi Supplies Ltd,Office Supplies,G4S Logistics,Eldoret,Kenya,36,26.39,Delivered,7,286,196,950.04,950.04
+ORD-1475,2024-09-27,Pan-Africa Distributors,Medical Supplies,DHL,Mombasa,Tanzania,265,157.9,Delivered,0,549,81,41843.5,41843.5
+ORD-1177,2024-09-27,Rift Valley Suppliers,Medical Supplies,DHL,Eldoret,Kenya,292,216.47,Delivered,3,973,153,63209.24,63209.24
+ORD-1254,2024-09-27,Kenya Procurement Co,Electronic Components,DHL,Eldoret,Tanzania,105,97.3,Delivered,6,349,160,10216.5,10216.5
+ORD-1405,2024-09-28,Pan-Africa Distributors,Raw Cotton,G4S Logistics,Eldoret,Uganda,286,18.64,Delivered,3,66,93,5331.04,5331.04
+ORD-1221,2024-09-28,Dar es Salaam Imports,Office Supplies,Siginon Logistics,Nairobi,Ethiopia,455,229.24,Delivered,12,803,190,104304.2,104304.2
+ORD-1245,2024-09-29,Kampala Wholesale,Safety Equipment,Kenya Airways Cargo,Eldoret,Uganda,234,230.2,Delivered,3,419,167,53866.8,53866.8
+ORD-1106,2024-09-30,Dar es Salaam Imports,Electronic Components,FedEx,Nairobi,Uganda,471,14.55,Cancelled,6,146,169,6853.05,6853.05
+ORD-1338,2024-10-01,Dar es Salaam Imports,Raw Cotton,FedEx,Kisumu,Tanzania,485,139.44,Delivered,17,418,106,67628.4,67628.4
+ORD-1062,2024-10-01,Kampala Wholesale,Medical Supplies,FedEx,Kisumu,Ethiopia,397,183.86,Delivered,5,383,80,72992.42,72992.42
+ORD-1186,2024-10-01,Dar es Salaam Imports,Medical Supplies,DHL,Mombasa,Kenya,72,177.75,Shipped,0,815,168,12798.0,12798.0
+ORD-1455,2024-10-02,Global Freight KE,Machinery Parts,Kenya Airways Cargo,Eldoret,Uganda,15,55.23,Processing,0,629,54,828.45,828.45
+ORD-1148,2024-10-02,East Africa Logistics,Medical Supplies,G4S Logistics,Kisumu,Kenya,144,125.79,Cancelled,1,330,57,18113.76,18113.76
+ORD-1219,2024-10-03,Global Freight KE,Packaging Material,DHL,Kisumu,Kenya,349,99.13,Delivered,4,398,67,34596.37,34596.37
+ORD-1356,2024-10-03,Pan-Africa Distributors,Machinery Parts,FedEx,Nairobi,Ethiopia,313,136.46,Processing,11,657,187,42711.98,42711.98
+ORD-1301,2024-10-03,Kampala Wholesale,Raw Cotton,Siginon Logistics,Nairobi,Uganda,334,140.93,Delivered,8,583,87,47070.62,47070.62
+ORD-1259,2024-10-03,Lake Region Trading,Chemical Compounds,FedEx,Kisumu,Ethiopia,327,20.56,Shipped,5,585,178,6723.12,6723.12
+ORD-1395,2024-10-04,Lake Region Trading,Electronic Components,Kenya Airways Cargo,Nairobi,Kenya,319,127.07,Processing,4,955,155,40535.33,40535.33
+ORD-1469,2024-10-05,Lake Region Trading,Electronic Components,Siginon Logistics,Mombasa,Kenya,200,82.47,Cancelled,0,455,87,16494.0,16494.0
+ORD-1029,2024-10-06,Kenya Procurement Co,Raw Cotton,DHL,Mombasa,Ethiopia,286,85.03,Delivered,2,197,144,24318.58,24318.58
+ORD-1012,2024-10-06,Kampala Wholesale,Chemical Compounds,FedEx,Kisumu,Uganda,340,22.38,Delivered,12,901,183,7609.2,7609.2
+ORD-1352,2024-10-08,Dar es Salaam Imports,Medical Supplies,DHL,Eldoret,Rwanda,69,217.73,Shipped,2,319,139,15023.37,15023.37
+ORD-1251,2024-10-08,Global Freight KE,Raw Cotton,Siginon Logistics,Mombasa,Uganda,324,195.51,Processing,0,643,160,63345.24,63345.24
+ORD-1066,2024-10-09,Mombasa Trading Co,Steel Rods,Kenya Airways Cargo,Nairobi,Tanzania,251,34.44,Cancelled,0,335,179,8644.44,8644.44
+ORD-1489,2024-10-10,East Africa Logistics,Safety Equipment,Siginon Logistics,Mombasa,Tanzania,297,45.85,Processing,1,986,174,13617.45,13617.45
+ORD-1280,2024-10-10,Pan-Africa Distributors,Raw Cotton,G4S Logistics,Mombasa,Tanzania,234,70.82,Delivered,4,684,61,16571.88,16571.88
+ORD-1479,2024-10-10,Global Freight KE,Steel Rods,G4S Logistics,Mombasa,Tanzania,290,92.06,Delivered,0,653,176,26697.4,26697.4
+ORD-1179,2024-10-10,East Africa Logistics,Office Supplies,Siginon Logistics,Kisumu,Kenya,216,62.99,Shipped,0,961,98,13605.84,13605.84
+ORD-1384,2024-10-11,Mombasa Trading Co,Industrial Bearings,Siginon Logistics,Mombasa,Kenya,236,122.5,Processing,4,647,106,28910.0,28910.0
+ORD-1115,2024-10-12,Global Freight KE,Safety Equipment,Siginon Logistics,Kisumu,Kenya,376,174.76,Delivered,1,957,75,65709.76,65709.76
+ORD-1147,2024-10-14,Dar es Salaam Imports,Packaging Material,DHL,Nairobi,Uganda,37,123.22,Delivered,0,364,150,4559.14,4559.14
+ORD-1024,2024-10-14,Dar es Salaam Imports,Machinery Parts,Siginon Logistics,Kisumu,Uganda,423,215.8,Delivered,0,281,59,91283.4,91283.4
+ORD-1452,2024-10-15,Pan-Africa Distributors,Packaging Material,Kenya Airways Cargo,Nairobi,Uganda,486,105.09,Delivered,2,347,114,51073.74,51073.74
+ORD-1430,2024-10-16,Kampala Wholesale,Medical Supplies,Kenya Airways Cargo,Nairobi,Ethiopia,292,193.11,Delivered,8,476,98,56388.12,56388.12
+ORD-1237,2024-10-17,Global Freight KE,Raw Cotton,Kenya Airways Cargo,Nairobi,Ethiopia,268,105.75,Cancelled,1,538,76,28341.0,28341.0
+ORD-1132,2024-10-17,Global Freight KE,Machinery Parts,DHL,Kisumu,Ethiopia,138,171.56,Cancelled,0,970,97,23675.28,23675.28
+ORD-1420,2024-10-18,Lake Region Trading,Chemical Compounds,DHL,Eldoret,Kenya,384,136.08,Cancelled,4,470,169,52254.72,52254.72
+ORD-1304,2024-10-19,Lake Region Trading,Medical Supplies,FedEx,Eldoret,Ethiopia,207,139.12,Delivered,1,48,69,28797.84,28797.84
+ORD-1305,2024-10-22,Lake Region Trading,Raw Cotton,Kenya Airways Cargo,Nairobi,Tanzania,479,115.47,Processing,2,153,66,55310.13,55310.13
+ORD-1073,2024-10-22,Rift Valley Suppliers,Chemical Compounds,Kenya Airways Cargo,Nairobi,Ethiopia,376,9.2,Processing,13,128,198,3459.2,3459.2
+ORD-1422,2024-10-23,Lake Region Trading,Safety Equipment,DHL,Nairobi,Tanzania,247,210.45,Cancelled,15,115,191,51981.15,51981.15
+ORD-1393,2024-10-23,Mombasa Trading Co,Electronic Components,FedEx,Mombasa,Tanzania,347,153.85,Delivered,5,827,85,53385.95,53385.95
+ORD-1153,2024-10-25,Kenya Procurement Co,Office Supplies,Kenya Airways Cargo,Kisumu,Uganda,42,57.12,Processing,0,600,158,2399.04,2399.04
+ORD-1429,2024-10-25,Kenya Procurement Co,Safety Equipment,DHL,Nairobi,Tanzania,273,178.27,Cancelled,0,844,136,48667.71,48667.71
+ORD-1401,2024-10-26,Global Freight KE,Raw Cotton,G4S Logistics,Mombasa,Rwanda,170,124.51,Cancelled,0,775,129,21166.7,21166.7
+ORD-1151,2024-10-26,Mombasa Trading Co,Steel Rods,G4S Logistics,Mombasa,Uganda,277,152.6,Shipped,1,821,92,42270.2,42270.2
+ORD-1033,2024-10-28,Nairobi Supplies Ltd,Office Supplies,FedEx,Kisumu,Uganda,31,117.03,Delivered,0,836,129,3627.93,3627.93
+ORD-1279,2024-10-28,East Africa Logistics,Machinery Parts,G4S Logistics,Kisumu,Rwanda,233,16.49,Cancelled,9,375,103,3842.17,3842.17
+ORD-1282,2024-10-28,Rift Valley Suppliers,Safety Equipment,DHL,Nairobi,Kenya,412,127.05,Processing,0,558,170,52344.6,52344.6
+ORD-1014,2024-10-29,Pan-Africa Distributors,Office Supplies,Siginon Logistics,Nairobi,Uganda,97,17.44,Shipped,9,250,129,1691.68,1691.68
+ORD-1423,2024-10-31,Kampala Wholesale,Safety Equipment,Kenya Airways Cargo,Mombasa,Tanzania,167,55.24,Cancelled,2,263,106,9225.08,9225.08
+ORD-1413,2024-10-31,East Africa Logistics,Machinery Parts,DHL,Mombasa,Tanzania,137,229.76,Shipped,8,726,56,31477.12,31477.12
+ORD-1175,2024-11-01,Pan-Africa Distributors,Steel Rods,FedEx,Nairobi,Ethiopia,407,62.14,Cancelled,0,967,130,25290.98,25290.98
+ORD-1171,2024-11-01,Global Freight KE,Industrial Bearings,G4S Logistics,Kisumu,Ethiopia,266,102.18,Shipped,4,101,187,27179.88,27179.88
+ORD-1223,2024-11-02,Pan-Africa Distributors,Machinery Parts,G4S Logistics,Kisumu,Kenya,137,19.18,Cancelled,0,50,175,2627.66,2627.66
+ORD-1022,2024-11-04,Rift Valley Suppliers,Raw Cotton,G4S Logistics,Kisumu,Uganda,267,245.55,Delivered,10,292,179,65561.85,65561.85
+ORD-1493,2024-11-05,Rift Valley Suppliers,Packaging Material,Siginon Logistics,Kisumu,Uganda,459,145.42,Shipped,0,842,162,66747.78,66747.78
+ORD-1056,2024-11-05,Nairobi Supplies Ltd,Raw Cotton,Kenya Airways Cargo,Nairobi,Uganda,316,49.8,Delivered,0,177,109,15736.8,15736.8
+ORD-1256,2024-11-06,Rift Valley Suppliers,Medical Supplies,G4S Logistics,Mombasa,Kenya,242,101.28,Cancelled,6,262,155,24509.76,24509.76
+ORD-1103,2024-11-07,Dar es Salaam Imports,Safety Equipment,FedEx,Mombasa,Ethiopia,313,72.12,Delivered,5,963,198,22573.56,22573.56
+ORD-1213,2024-11-07,Kenya Procurement Co,Steel Rods,Siginon Logistics,Kisumu,Tanzania,450,23.48,Delivered,0,406,198,10566.0,10566.0
+ORD-1472,2024-11-09,Mombasa Trading Co,Electronic Components,Kenya Airways Cargo,Nairobi,Rwanda,425,115.73,Cancelled,0,160,148,49185.25,49185.25
+ORD-1070,2024-11-12,East Africa Logistics,Chemical Compounds,G4S Logistics,Eldoret,Ethiopia,395,81.3,Processing,2,374,132,32113.5,32113.5
+ORD-1425,2024-11-13,Mombasa Trading Co,Medical Supplies,DHL,Nairobi,Ethiopia,239,179.18,Delivered,11,811,70,42824.02,42824.02
+ORD-1451,2024-11-14,Kampala Wholesale,Safety Equipment,Siginon Logistics,Nairobi,Ethiopia,167,187.76,Processing,22,278,147,31355.92,31355.92
+ORD-1208,2024-11-16,Dar es Salaam Imports,Medical Supplies,G4S Logistics,Eldoret,Rwanda,293,15.63,Delivered,3,497,163,4579.59,4579.59
+ORD-1069,2024-11-17,Kampala Wholesale,Steel Rods,Siginon Logistics,Eldoret,Rwanda,62,28.07,Shipped,3,891,105,1740.34,1740.34
+ORD-1166,2024-11-17,Global Freight KE,Medical Supplies,Siginon Logistics,Mombasa,Uganda,236,210.06,Cancelled,6,304,54,49574.16,49574.16
+ORD-1287,2024-11-19,Nairobi Supplies Ltd,Machinery Parts,Siginon Logistics,Kisumu,Rwanda,227,242.15,Delivered,3,117,119,54968.05,54968.05
+ORD-1499,2024-11-20,Lake Region Trading,Steel Rods,DHL,Kisumu,Tanzania,282,55.11,Delivered,0,195,55,15541.02,15541.02
+ORD-1090,2024-11-21,Lake Region Trading,Office Supplies,DHL,Kisumu,Uganda,269,236.34,Cancelled,12,113,173,63575.46,63575.46
+ORD-1104,2024-11-21,Global Freight KE,Industrial Bearings,Siginon Logistics,Kisumu,Uganda,280,57.57,Cancelled,0,800,187,16119.6,16119.6
+ORD-1000,2024-11-23,Kampala Wholesale,Medical Supplies,DHL,Nairobi,Ethiopia,112,212.92,Delivered,4,686,104,23847.04,23847.04
+ORD-1113,2024-11-23,Global Freight KE,Safety Equipment,Siginon Logistics,Eldoret,Rwanda,246,68.87,Processing,9,360,101,16942.02,16942.02
+ORD-1211,2024-11-23,East Africa Logistics,Industrial Bearings,FedEx,Mombasa,Ethiopia,54,66.98,Shipped,2,426,162,3616.92,3616.92
+ORD-1190,2024-11-24,Global Freight KE,Chemical Compounds,DHL,Eldoret,Ethiopia,61,67.15,Shipped,8,628,189,4096.15,4096.15
+ORD-1140,2024-11-25,Rift Valley Suppliers,Raw Cotton,DHL,Eldoret,Rwanda,428,29.5,Delivered,10,18,57,12626.0,12626.0
+ORD-1443,2024-11-26,Lake Region Trading,Safety Equipment,DHL,Nairobi,Uganda,156,39.01,Delivered,2,399,110,6085.56,6085.56
+ORD-1326,2024-11-26,Dar es Salaam Imports,Steel Rods,DHL,Mombasa,Tanzania,361,49.12,Cancelled,12,560,79,17732.32,17732.32
+ORD-1101,2024-11-27,Rift Valley Suppliers,Medical Supplies,Siginon Logistics,Mombasa,Ethiopia,279,164.61,Cancelled,8,344,198,45926.19,45926.19
+ORD-1027,2024-11-28,Kenya Procurement Co,Safety Equipment,G4S Logistics,Nairobi,Tanzania,201,79.3,Delivered,12,118,103,15939.3,15939.3
+ORD-1268,2024-11-28,Kampala Wholesale,Industrial Bearings,FedEx,Kisumu,Rwanda,122,148.36,Delivered,5,444,59,18099.92,18099.92
+ORD-1355,2024-11-29,Kampala Wholesale,Chemical Compounds,Kenya Airways Cargo,Eldoret,Kenya,394,246.63,Delivered,1,596,110,97172.22,97172.22
+ORD-1325,2024-11-30,Nairobi Supplies Ltd,Chemical Compounds,G4S Logistics,Eldoret,Ethiopia,157,175.93,Delivered,6,686,125,27621.01,27621.01
+ORD-1474,2024-11-30,Global Freight KE,Steel Rods,Siginon Logistics,Nairobi,Tanzania,170,225.42,Delivered,14,459,98,38321.4,38321.4
+ORD-1137,2024-12-01,Pan-Africa Distributors,Chemical Compounds,G4S Logistics,Nairobi,Ethiopia,90,126.66,Delivered,3,493,70,11399.4,11399.4
+ORD-1428,2024-12-02,Dar es Salaam Imports,Machinery Parts,FedEx,Nairobi,Ethiopia,447,134.81,Delivered,2,452,180,60260.07,60260.07
+ORD-1315,2024-12-03,Global Freight KE,Safety Equipment,G4S Logistics,Kisumu,Ethiopia,358,16.24,Delivered,8,201,73,5813.92,5813.92
+ORD-1249,2024-12-03,Global Freight KE,Raw Cotton,Kenya Airways Cargo,Nairobi,Uganda,161,45.38,Processing,8,944,88,7306.18,7306.18
+ORD-1078,2024-12-04,East Africa Logistics,Steel Rods,Siginon Logistics,Eldoret,Ethiopia,440,164.19,Delivered,19,516,193,72243.6,72243.6
+ORD-1385,2024-12-04,Pan-Africa Distributors,Industrial Bearings,DHL,Mombasa,Kenya,121,148.13,Processing,0,352,149,17923.73,17923.73
+ORD-1481,2024-12-05,Lake Region Trading,Steel Rods,Kenya Airways Cargo,Nairobi,Rwanda,232,135.31,Delivered,0,480,159,31391.92,31391.92
+ORD-1477,2024-12-07,Kampala Wholesale,Chemical Compounds,G4S Logistics,Eldoret,Ethiopia,137,112.49,Processing,10,737,70,15411.13,15411.13
+ORD-1435,2024-12-08,Nairobi Supplies Ltd,Office Supplies,Siginon Logistics,Mombasa,Kenya,106,150.5,Processing,12,617,177,15953.0,15953.0
+ORD-1298,2024-12-08,Lake Region Trading,Steel Rods,Siginon Logistics,Mombasa,Ethiopia,264,245.21,Shipped,8,632,103,64735.44,64735.44
+ORD-1097,2024-12-09,Nairobi Supplies Ltd,Raw Cotton,Kenya Airways Cargo,Kisumu,Ethiopia,171,203.75,Delivered,0,880,135,34841.25,34841.25
+ORD-1267,2024-12-09,Nairobi Supplies Ltd,Raw Cotton,Kenya Airways Cargo,Kisumu,Ethiopia,110,228.73,Cancelled,12,937,147,25160.3,25160.3
+ORD-1442,2024-12-09,Nairobi Supplies Ltd,Chemical Compounds,FedEx,Eldoret,Uganda,313,26.53,Cancelled,7,656,130,8303.89,8303.89
+ORD-1324,2024-12-10,Lake Region Trading,Machinery Parts,Kenya Airways Cargo,Eldoret,Tanzania,156,103.07,Cancelled,3,580,158,16078.92,16078.92
+ORD-1415,2024-12-11,Kenya Procurement Co,Industrial Bearings,Siginon Logistics,Eldoret,Ethiopia,185,243.89,Shipped,12,769,176,45119.65,45119.65
+ORD-1010,2024-12-12,Dar es Salaam Imports,Machinery Parts,G4S Logistics,Mombasa,Ethiopia,476,158.83,Shipped,0,366,131,75603.08,75603.08
+ORD-1169,2024-12-14,Nairobi Supplies Ltd,Packaging Material,G4S Logistics,Nairobi,Kenya,471,109.39,Delivered,5,290,57,51522.69,51522.69
+ORD-1182,2024-12-14,Pan-Africa Distributors,Packaging Material,G4S Logistics,Kisumu,Tanzania,51,90.8,Cancelled,0,2,117,4630.8,4630.8
+ORD-1185,2024-12-15,Lake Region Trading,Safety Equipment,G4S Logistics,Nairobi,Rwanda,188,97.61,Processing,14,327,171,18350.68,18350.68
+ORD-1100,2024-12-15,Rift Valley Suppliers,Raw Cotton,Siginon Logistics,Nairobi,Tanzania,493,206.0,Delivered,10,839,111,101558.0,101558.0
+ORD-1117,2024-12-16,Rift Valley Suppliers,Safety Equipment,Kenya Airways Cargo,Mombasa,Kenya,289,234.48,Delivered,4,961,101,67764.72,67764.72
+ORD-1498,2024-12-17,Pan-Africa Distributors,Office Supplies,Kenya Airways Cargo,Nairobi,Uganda,483,40.07,Cancelled,13,665,91,19353.81,19353.81
+ORD-1114,2024-12-18,Dar es Salaam Imports,Electronic Components,DHL,Kisumu,Kenya,347,126.53,Delivered,11,601,166,43905.91,43905.91
+ORD-1262,2024-12-19,East Africa Logistics,Machinery Parts,Siginon Logistics,Mombasa,Kenya,277,8.35,Shipped,8,158,52,2312.95,2312.95
+ORD-1381,2024-12-22,Global Freight KE,Safety Equipment,FedEx,Nairobi,Tanzania,113,121.12,Shipped,0,675,88,13686.56,13686.56
+ORD-1041,2024-12-23,Lake Region Trading,Machinery Parts,G4S Logistics,Mombasa,Uganda,485,180.08,Cancelled,6,241,185,87338.8,87338.8
+ORD-1099,2024-12-25,Nairobi Supplies Ltd,Packaging Material,DHL,Kisumu,Tanzania,455,158.36,Shipped,10,986,179,72053.8,72053.8
+ORD-1028,2024-12-25,Global Freight KE,Medical Supplies,G4S Logistics,Nairobi,Kenya,453,136.59,Delivered,1,34,82,61875.27,61875.27
+ORD-1470,2024-12-26,Lake Region Trading,Chemical Compounds,Kenya Airways Cargo,Nairobi,Rwanda,262,149.14,Delivered,0,742,108,39074.68,39074.68
+ORD-1075,2024-12-26,Rift Valley Suppliers,Industrial Bearings,G4S Logistics,Kisumu,Uganda,464,202.69,Delivered,11,668,164,94048.16,94048.16
+ORD-1286,2024-12-28,East Africa Logistics,Industrial Bearings,G4S Logistics,Eldoret,Kenya,181,205.01,Cancelled,8,917,193,37106.81,37106.81
+ORD-1264,2024-12-31,Kenya Procurement Co,Raw Cotton,Kenya Airways Cargo,Kisumu,Kenya,395,174.47,Delivered,2,958,153,68915.65,68915.65
+ORD-1026,2025-01-01,Rift Valley Suppliers,Medical Supplies,G4S Logistics,Mombasa,Uganda,395,14.51,Delivered,1,0,74,5731.45,5731.45
+ORD-1436,2025-01-01,Nairobi Supplies Ltd,Raw Cotton,FedEx,Mombasa,Tanzania,293,95.46,Cancelled,2,445,189,27969.78,27969.78
+ORD-1495,2025-01-02,Kenya Procurement Co,Industrial Bearings,Kenya Airways Cargo,Mombasa,Rwanda,164,189.34,Delivered,5,179,180,31051.76,31051.76
+ORD-1134,2025-01-02,Lake Region Trading,Packaging Material,DHL,Eldoret,Kenya,481,63.37,Delivered,8,609,146,30480.97,30480.97
+ORD-1386,2025-01-02,Pan-Africa Distributors,Steel Rods,DHL,Mombasa,Uganda,482,185.52,Processing,0,890,119,89420.64,89420.64
+ORD-1200,2025-01-03,Pan-Africa Distributors,Safety Equipment,Siginon Logistics,Mombasa,Kenya,38,122.04,Delivered,5,299,60,4637.52,4637.52
+ORD-1198,2025-01-04,Kampala Wholesale,Industrial Bearings,G4S Logistics,Kisumu,Uganda,152,63.19,Processing,13,292,81,9604.88,9604.88
+ORD-1183,2025-01-04,Rift Valley Suppliers,Chemical Compounds,DHL,Nairobi,Rwanda,389,178.5,Delivered,0,84,127,69436.5,69436.5
+ORD-1303,2025-01-05,Kenya Procurement Co,Raw Cotton,G4S Logistics,Kisumu,Tanzania,107,182.97,Cancelled,5,719,106,19577.79,19577.79
+ORD-1330,2025-01-07,East Africa Logistics,Industrial Bearings,DHL,Kisumu,Tanzania,426,131.23,Processing,9,672,68,55903.98,55903.98
+ORD-1107,2025-01-08,Lake Region Trading,Packaging Material,G4S Logistics,Nairobi,Uganda,224,156.47,Delivered,0,286,182,35049.28,35049.28
+ORD-1261,2025-01-08,Nairobi Supplies Ltd,Steel Rods,DHL,Eldoret,Tanzania,61,37.79,Delivered,3,908,54,2305.19,2305.19
+ORD-1060,2025-01-08,Pan-Africa Distributors,Medical Supplies,DHL,Eldoret,Tanzania,176,165.99,Processing,18,851,179,29214.24,29214.24
+ORD-1322,2025-01-08,Lake Region Trading,Steel Rods,DHL,Mombasa,Rwanda,355,117.73,Delivered,0,438,159,41794.15,41794.15
+ORD-1382,2025-01-09,Pan-Africa Distributors,Electronic Components,Siginon Logistics,Kisumu,Rwanda,349,92.0,Delivered,6,898,178,32108.0,32108.0
+ORD-1240,2025-01-09,Rift Valley Suppliers,Industrial Bearings,Siginon Logistics,Nairobi,Rwanda,465,37.63,Cancelled,0,155,137,17497.95,17497.95
+ORD-1394,2025-01-11,Kampala Wholesale,Machinery Parts,FedEx,Mombasa,Ethiopia,203,64.87,Delivered,0,641,157,13168.61,13168.61
+ORD-1008,2025-01-12,Nairobi Supplies Ltd,Electronic Components,Kenya Airways Cargo,Mombasa,Uganda,112,24.99,Processing,24,823,98,2798.88,2798.88
+ORD-1011,2025-01-14,Kenya Procurement Co,Electronic Components,G4S Logistics,Kisumu,Uganda,224,52.6,Processing,2,718,84,11782.4,11782.4
+ORD-1003,2025-01-14,Kampala Wholesale,Electronic Components,Siginon Logistics,Mombasa,Ethiopia,280,140.44,Delivered,6,164,192,39323.2,39323.2
+ORD-1488,2025-01-15,Kampala Wholesale,Safety Equipment,G4S Logistics,Kisumu,Kenya,123,174.96,Delivered,0,769,63,21520.08,21520.08
+ORD-1146,2025-01-16,Lake Region Trading,Medical Supplies,FedEx,Nairobi,Ethiopia,50,170.81,Delivered,4,850,136,8540.5,8540.5
+ORD-1397,2025-01-17,Pan-Africa Distributors,Steel Rods,DHL,Kisumu,Kenya,217,233.75,Shipped,1,427,184,50723.75,50723.75
+ORD-1150,2025-01-17,Kampala Wholesale,Medical Supplies,G4S Logistics,Eldoret,Rwanda,337,27.47,Shipped,2,343,136,9257.39,9257.39
+ORD-1187,2025-01-19,Pan-Africa Distributors,Raw Cotton,Kenya Airways Cargo,Kisumu,Uganda,361,65.94,Delivered,4,449,163,23804.34,23804.34
+ORD-1447,2025-01-19,Pan-Africa Distributors,Safety Equipment,Kenya Airways Cargo,Mombasa,Uganda,58,153.49,Delivered,9,514,92,8902.42,8902.42
+ORD-1360,2025-01-20,Lake Region Trading,Medical Supplies,Siginon Logistics,Kisumu,Kenya,46,135.16,Shipped,7,636,162,6217.36,6217.36
+ORD-1161,2025-01-21,Global Freight KE,Chemical Compounds,FedEx,Eldoret,Tanzania,369,185.57,Processing,13,914,192,68475.33,68475.33
+ORD-1260,2025-01-21,Lake Region Trading,Machinery Parts,G4S Logistics,Kisumu,Tanzania,451,14.02,Cancelled,11,38,157,6323.02,6323.02
+ORD-1038,2025-01-23,Dar es Salaam Imports,Industrial Bearings,DHL,Eldoret,Rwanda,484,38.9,Shipped,8,489,74,18827.6,18827.6
+ORD-1244,2025-01-24,Mombasa Trading Co,Packaging Material,FedEx,Mombasa,Tanzania,174,147.38,Delivered,0,105,52,25644.12,25644.12
+ORD-1203,2025-01-25,Pan-Africa Distributors,Electronic Components,DHL,Nairobi,Uganda,169,111.9,Delivered,1,42,66,18911.1,18911.1
+ORD-1217,2025-01-25,Mombasa Trading Co,Steel Rods,G4S Logistics,Kisumu,Rwanda,117,248.98,Delivered,0,116,88,29130.66,29130.66
+ORD-1047,2025-01-25,Nairobi Supplies Ltd,Machinery Parts,G4S Logistics,Kisumu,Tanzania,184,50.16,Cancelled,4,216,81,9229.44,9229.44
+ORD-1246,2025-01-27,Global Freight KE,Medical Supplies,DHL,Mombasa,Kenya,316,25.27,Shipped,7,669,68,7985.32,7985.32
+ORD-1189,2025-01-28,Rift Valley Suppliers,Machinery Parts,Siginon Logistics,Nairobi,Rwanda,250,111.44,Delivered,1,923,198,27860.0,27860.0
+ORD-1120,2025-01-28,Global Freight KE,Raw Cotton,G4S Logistics,Eldoret,Uganda,261,242.06,Processing,1,574,91,63177.66,63177.66
+ORD-1080,2025-01-30,Kenya Procurement Co,Steel Rods,Kenya Airways Cargo,Mombasa,Rwanda,215,237.54,Cancelled,1,85,53,51071.1,51071.1
+ORD-1121,2025-02-01,Global Freight KE,Office Supplies,Siginon Logistics,Nairobi,Kenya,197,139.25,Delivered,12,584,70,27432.25,27432.25
+ORD-1220,2025-02-02,Global Freight KE,Electronic Components,FedEx,Eldoret,Kenya,295,185.59,Delivered,0,792,198,54749.05,54749.05
+ORD-1377,2025-02-05,Rift Valley Suppliers,Raw Cotton,FedEx,Kisumu,Rwanda,122,26.86,Cancelled,6,35,119,3276.92,3276.92
+ORD-1383,2025-02-05,Rift Valley Suppliers,Machinery Parts,G4S Logistics,Kisumu,Rwanda,263,163.96,Processing,4,72,73,43121.48,43121.48
+ORD-1376,2025-02-05,Nairobi Supplies Ltd,Chemical Compounds,Kenya Airways Cargo,Eldoret,Rwanda,84,210.97,Processing,0,620,149,17721.48,17721.48
+ORD-1308,2025-02-05,Kampala Wholesale,Medical Supplies,Kenya Airways Cargo,Mombasa,Tanzania,153,133.28,Delivered,6,579,53,20391.84,20391.84
+ORD-1168,2025-02-09,Kenya Procurement Co,Chemical Compounds,G4S Logistics,Kisumu,Kenya,440,210.43,Cancelled,8,496,145,92589.2,92589.2
+ORD-1332,2025-02-13,Dar es Salaam Imports,Office Supplies,Kenya Airways Cargo,Kisumu,Rwanda,137,152.47,Delivered,8,660,162,20888.39,20888.39
+ORD-1039,2025-02-16,Rift Valley Suppliers,Chemical Compounds,FedEx,Mombasa,Kenya,68,37.52,Processing,1,275,190,2551.36,2551.36
+ORD-1126,2025-02-16,Global Freight KE,Electronic Components,DHL,Eldoret,Ethiopia,310,36.28,Cancelled,4,780,66,11246.8,11246.8
+ORD-1349,2025-02-17,Global Freight KE,Office Supplies,DHL,Mombasa,Rwanda,153,43.46,Delivered,10,253,124,6649.38,6649.38
+ORD-1310,2025-02-17,Lake Region Trading,Packaging Material,Siginon Logistics,Eldoret,Uganda,210,200.14,Delivered,6,663,52,42029.4,42029.4
+ORD-1231,2025-02-17,Lake Region Trading,Electronic Components,Siginon Logistics,Nairobi,Tanzania,292,70.15,Delivered,10,333,71,20483.8,20483.8
+ORD-1473,2025-02-17,Rift Valley Suppliers,Chemical Compounds,DHL,Eldoret,Uganda,480,179.88,Cancelled,4,783,112,86342.4,86342.4
+ORD-1058,2025-02-17,Mombasa Trading Co,Machinery Parts,G4S Logistics,Mombasa,Uganda,30,161.38,Delivered,7,427,142,4841.4,4841.4
+ORD-1035,2025-02-18,Mombasa Trading Co,Medical Supplies,Kenya Airways Cargo,Eldoret,Tanzania,245,52.62,Shipped,0,690,174,12891.9,12891.9
+ORD-1242,2025-02-21,Mombasa Trading Co,Raw Cotton,Kenya Airways Cargo,Kisumu,Kenya,146,235.43,Cancelled,6,647,71,34372.78,34372.78
+ORD-1478,2025-02-22,Lake Region Trading,Safety Equipment,FedEx,Eldoret,Kenya,27,146.48,Delivered,6,508,69,3954.96,3954.96
+ORD-1124,2025-02-24,Lake Region Trading,Medical Supplies,DHL,Eldoret,Uganda,166,146.1,Delivered,5,88,162,24252.6,24252.6
+ORD-1068,2025-02-28,Dar es Salaam Imports,Packaging Material,Siginon Logistics,Kisumu,Tanzania,355,27.49,Cancelled,13,745,60,9758.95,9758.95
+ORD-1230,2025-03-01,Nairobi Supplies Ltd,Machinery Parts,Siginon Logistics,Mombasa,Kenya,386,61.2,Delivered,3,801,138,23623.2,23623.2
+ORD-1468,2025-03-02,Global Freight KE,Office Supplies,Siginon Logistics,Mombasa,Tanzania,125,227.43,Delivered,6,977,137,28428.75,28428.75
+ORD-1091,2025-03-03,Rift Valley Suppliers,Steel Rods,FedEx,Mombasa,Uganda,319,217.46,Cancelled,0,977,112,69369.74,69369.74
+ORD-1357,2025-03-04,Mombasa Trading Co,Packaging Material,FedEx,Mombasa,Uganda,263,231.39,Cancelled,0,834,99,60855.57,60855.57
+ORD-1210,2025-03-06,Rift Valley Suppliers,Raw Cotton,G4S Logistics,Mombasa,Rwanda,179,230.18,Delivered,13,890,81,41202.22,41202.22
+ORD-1119,2025-03-07,Mombasa Trading Co,Medical Supplies,Siginon Logistics,Kisumu,Uganda,226,107.4,Delivered,11,965,131,24272.4,24272.4
+ORD-1054,2025-03-09,East Africa Logistics,Office Supplies,Kenya Airways Cargo,Kisumu,Uganda,140,63.75,Cancelled,0,494,69,8925.0,8925.0
+ORD-1361,2025-03-10,Global Freight KE,Machinery Parts,FedEx,Mombasa,Ethiopia,169,181.53,Cancelled,9,166,143,30678.57,30678.57
+ORD-1410,2025-03-11,East Africa Logistics,Industrial Bearings,G4S Logistics,Eldoret,Rwanda,144,249.33,Delivered,7,341,131,35903.52,35903.52
+ORD-1404,2025-03-12,Dar es Salaam Imports,Office Supplies,DHL,Kisumu,Rwanda,407,202.44,Delivered,5,561,119,82393.08,82393.08
+ORD-1083,2025-03-13,Nairobi Supplies Ltd,Office Supplies,G4S Logistics,Eldoret,Kenya,59,8.75,Cancelled,6,192,89,516.25,516.25
+ORD-1351,2025-03-14,Kampala Wholesale,Chemical Compounds,FedEx,Eldoret,Rwanda,121,5.64,Delivered,8,769,186,682.44,682.44
+ORD-1292,2025-03-16,Lake Region Trading,Steel Rods,FedEx,Kisumu,Ethiopia,333,108.03,Processing,8,25,174,35973.99,35973.99
+ORD-1163,2025-03-16,Mombasa Trading Co,Chemical Compounds,FedEx,Nairobi,Ethiopia,484,177.93,Delivered,4,604,77,86118.12,86118.12
+ORD-1180,2025-03-16,Pan-Africa Distributors,Medical Supplies,Kenya Airways Cargo,Kisumu,Ethiopia,24,227.38,Processing,0,941,85,5457.12,5457.12
+ORD-1333,2025-03-17,Nairobi Supplies Ltd,Steel Rods,Siginon Logistics,Kisumu,Uganda,48,59.84,Cancelled,1,976,195,2872.32,2872.32
+ORD-1071,2025-03-17,Kampala Wholesale,Medical Supplies,Siginon Logistics,Eldoret,Ethiopia,349,244.98,Processing,0,7,186,85498.02,85498.02
+ORD-1416,2025-03-17,Mombasa Trading Co,Packaging Material,DHL,Nairobi,Kenya,469,125.23,Processing,17,613,192,58732.87,58732.87
+ORD-1350,2025-03-17,Lake Region Trading,Packaging Material,Kenya Airways Cargo,Mombasa,Uganda,355,97.44,Delivered,7,920,152,34591.2,34591.2
+ORD-1368,2025-03-18,Mombasa Trading Co,Medical Supplies,Kenya Airways Cargo,Kisumu,Ethiopia,140,12.47,Delivered,2,301,95,1745.8,1745.8
+ORD-1321,2025-03-18,Kampala Wholesale,Medical Supplies,Kenya Airways Cargo,Eldoret,Tanzania,412,136.63,Processing,1,992,112,56291.56,56291.56
+ORD-1085,2025-03-19,Lake Region Trading,Office Supplies,DHL,Nairobi,Rwanda,397,127.75,Processing,3,118,150,50716.75,50716.75
+ORD-1036,2025-03-21,Mombasa Trading Co,Safety Equipment,Kenya Airways Cargo,Mombasa,Ethiopia,354,105.78,Delivered,13,205,180,37446.12,37446.12
+ORD-1207,2025-03-21,Kampala Wholesale,Safety Equipment,Kenya Airways Cargo,Kisumu,Uganda,95,84.06,Shipped,1,813,173,7985.7,7985.7
+ORD-1255,2025-03-22,Lake Region Trading,Chemical Compounds,Kenya Airways Cargo,Kisumu,Kenya,481,188.65,Delivered,5,458,185,90740.65,90740.65
+ORD-1346,2025-03-23,Rift Valley Suppliers,Safety Equipment,Kenya Airways Cargo,Nairobi,Ethiopia,108,122.88,Delivered,5,76,96,13271.04,13271.04
+ORD-1133,2025-03-24,Lake Region Trading,Office Supplies,Siginon Logistics,Kisumu,Kenya,145,186.28,Delivered,14,323,78,27010.6,27010.6
+ORD-1199,2025-03-24,Rift Valley Suppliers,Machinery Parts,Siginon Logistics,Kisumu,Tanzania,180,103.05,Shipped,11,974,173,18549.0,18549.0
+ORD-1483,2025-03-25,Nairobi Supplies Ltd,Steel Rods,DHL,Kisumu,Rwanda,67,61.11,Shipped,14,113,192,4094.37,4094.37
+ORD-1236,2025-03-25,Kampala Wholesale,Medical Supplies,DHL,Mombasa,Rwanda,242,73.54,Cancelled,4,493,78,17796.68,17796.68
+ORD-1229,2025-03-25,Lake Region Trading,Chemical Compounds,Kenya Airways Cargo,Kisumu,Tanzania,394,100.13,Cancelled,9,786,199,39451.22,39451.22
+ORD-1462,2025-03-26,Lake Region Trading,Medical Supplies,Siginon Logistics,Kisumu,Rwanda,311,188.87,Delivered,2,632,147,58738.57,58738.57
