@@ -7,7 +7,14 @@ def apply_security_headers(response):
     response.headers["X-XSS-Protection"]        = "1; mode=block"
     response.headers["Referrer-Policy"]         = "strict-origin-when-cross-origin"
     response.headers["Cache-Control"]           = "no-store, no-cache, must-revalidate"
-    response.headers["Content-Security-Policy"] = "default-src 'self'; script-src 'none'; object-src 'none'; frame-ancestors 'none';"
+    response.headers["Content-Security-Policy"] = (
+        "default-src 'self'; "
+        "script-src 'self' 'unsafe-inline' 'unsafe-eval'; "
+        "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; "
+        "font-src 'self' https://fonts.gstatic.com; "
+        "img-src 'self' data:; "
+        "connect-src 'self';"
+    )
     response.headers.pop("Server", None)
     return response
 
@@ -42,7 +49,7 @@ def safe_join(base_dir, *parts):
     base   = os.path.realpath(base_dir)
     target = os.path.realpath(os.path.join(base, *parts))
     if not target.startswith(base + os.sep) and target != base:
-        raise ValueError(f"Path traversal detected")
+        raise ValueError("Path traversal detected")
     return target
 
 SESSION_ID_RE = re.compile(r"^[a-f0-9]{8}$|^demo$")
